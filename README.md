@@ -12,4 +12,4 @@ When the value of counter is greater than 0, then font color of text is "Green".
 When the value of counter is equal to 0, then font color of text is "Black".
 ![image](https://github.com/Lucky-Bhure/Counter/assets/93819707/dd8f4bb1-5e9c-46d3-9a84-2367cb9c4f02)
 
-This project is developed by Html, css and Javascript.
+This project is developed in Html, css and Javascript.
